@@ -83,7 +83,7 @@ const Projects = ({ theme, githubUsername }) => {
                 <Card key={projects.id}>
                   <Card.Img
                     variant="top"
-                    src={projects.imageInfo.image}
+                    // src={projects.imageInfo.image}
                     alt="Project Image"
                   />
                   <Card.Body>
